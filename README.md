@@ -8,3 +8,8 @@
     ✦ Ata ✦
   </a>
 </p>
+<p align="center">
+  <a href="https://biglion.straw.page/">
+    ✦ StrawPage ✦
+  </a>
+</p>
